@@ -1,0 +1,2 @@
+|scenarioName| UserName | Password | ssn | offerDate | hireDate | inputStartDate | horlywage | jobTypeamount |storyName |storyDescription|
+|WebIn| mango@polk | trac@777 | 234523453 | 21 | 21 | 21 | 10 | DRIVER | Smoke_001_Verify_Web_In_Manager_Hire_To_Export.story |Performed Web-In Screening, Manager Hire and State Export Action So that user get the state export files for Selected state|

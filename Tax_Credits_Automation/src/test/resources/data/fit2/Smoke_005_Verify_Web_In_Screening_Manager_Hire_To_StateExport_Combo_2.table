@@ -1,0 +1,2 @@
+UserName|Password|SSNNumber|ExpectedSSN | SSN | changedStatus| Company | Status |PSNDate | DOLDate | SearchDateFrom | SearchDateTo | Area |scenarioName|storyName |
+ashivharefacs@adp|trac@000|050320129|050320129 |111453231 | eSign |P|18 | 18 | 1 | 29 | WOTC |Smoke_001_Verify_Web_In_Screening_Manager_Hire_To_State_Exprot_Flow|Smoke_001_Verify_Web_In_Screening_Manager_Hire_To_State_Exprot_Flow.story|

@@ -1,0 +1,2 @@
+|scenarioName|storyName|storyDescription|UserName|Password|errorDescription|
+|Docufree_Invalid_Hire_Date|Docufree_InvalidHireDate.story|Docufree Invalid Hire Date|ashivharefacs@adp|trac@000|Hire Date-Value(08/24/20167) is invalid|

@@ -1,0 +1,48 @@
+*.class
+*.html
+*.stats
+*.txt
+*.xml
+*.jar
+*.target
+
+*.test
+/target/
+
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# generated files
+bin/
+gen/
+/target/
+# test/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Eclipse project files
+.classpath
+.project
+.settings
+
+#MAC
+.DS_Store
+
+# Intellij IDEA
+.idea/
+*.iml
+AutomationTCS.iws
+
+#vim
+*.swp
+
+

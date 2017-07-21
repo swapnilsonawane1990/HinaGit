@@ -1,0 +1,2 @@
+|scenarioName|UserName|Password|SSNNumber|ExpectedSSN| SSN | Company | PSNDate | DOLDate | SearchDateFrom | SearchDateTo | Area | storyName |storyDescription|changedStatus|
+|XmlIn_KY_Esign_APIHire_Individual_MassProcess_StateExport|akashiat@adp|trac@999|||  |  | 18 | 18 | 1 | 29 | WOTC | Smoke_StateExport_WebIn_SingleFlow_Combo_KY |Performed XML-In Screening for KY State, API Hire and State Export Action So that user get the state export files for Selected state|eSign|

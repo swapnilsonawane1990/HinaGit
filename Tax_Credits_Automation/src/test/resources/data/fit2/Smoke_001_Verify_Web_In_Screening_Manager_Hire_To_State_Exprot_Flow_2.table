@@ -1,0 +1,6 @@
+UserName|Password|SSNNumber|ExpectedSSN | SSN | Company | PSNDate | DOLDate | SearchDateFrom | SearchDateTo | Area |scenarioName|storyName |
+<<<<<<< HEAD
+ashivharefacs@adp|trac@000|050320129|050320129 | 111453231 |  | 18 | 18 | 1 | 29 | WOTC |Smoke_005_Verify_Web_In_Screening_Manager_Hire_To_StateExport_Combo|Smoke_005_Verify_Web_In_Screening_Manager_Hire_To_StateExport_Combo.story|
+=======
+ashivharefacs@adp|trac@000|050320129|050320129 | 111453231 |  | 18 | 18 | 1 | 29 | WOTC |Smoke_001_Verify_Web_In_Screening_Manager_Hire_To_State_Exprot_Flow|Smoke_001_Verify_Web_In_Screening_Manager_Hire_To_State_Exprot_Flow.story|
+>>>>>>> 1e2351900eb11340e6eea6c4835a284fc46e93ea

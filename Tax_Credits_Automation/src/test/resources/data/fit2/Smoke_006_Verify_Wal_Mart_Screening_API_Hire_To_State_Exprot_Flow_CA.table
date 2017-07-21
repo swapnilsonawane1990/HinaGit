@@ -1,0 +1,2 @@
+|scenarioName | storyName|Status|PSNDate |SSN| DOLDate | SearchDateFrom | SearchDateTo| storyDescription |
+|WalmartWebIn_CA| Smoke_006_Verify_Wal_Mart_Screening_API_Hire_To_State_Exprot_Flow_CA.story | E |18|050320129 | 18 | 1 | 29 | Performed Web-In Screening, Manager Hire and State Export Action So that user get the state export files for Selected state|

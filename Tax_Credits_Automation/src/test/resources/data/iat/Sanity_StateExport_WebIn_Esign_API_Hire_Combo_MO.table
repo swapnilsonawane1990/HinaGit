@@ -1,0 +1,2 @@
+|scenarioName|UserName|Password|SSNNumber|ExpectedSSN| SSN | Company | PSNDate | DOLDate | SearchDateFrom | SearchDateTo | Area | storyName |storyDescription|changedStatus|
+|XmlIn_MO_MassProcess_Combo_StateExport|akashiat@adp|trac@999|||  |  | 18 | 18 | 1 | 29 | WOTC | Sanity_StateExport_WebIn_Esign_API_Hire_Combo_MO |Performed Web-In Screening for SSI Target Group MO State, API Hire and State Export Action So that user get the state export files for Selected state|eSign|

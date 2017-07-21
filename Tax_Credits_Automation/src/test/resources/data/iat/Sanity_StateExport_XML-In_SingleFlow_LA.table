@@ -1,0 +1,2 @@
+|scenarioName|storyName|storyDescription|numberOfRecords|
+|Xml-In_LA|Sanity_StateExport_XML-In_SingleFlow_LA.story|Performed XML-In Screening, Hire Via API and State Export Action So that user get the state export files for LA state|1|

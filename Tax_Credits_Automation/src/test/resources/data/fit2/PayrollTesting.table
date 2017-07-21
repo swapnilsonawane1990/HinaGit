@@ -1,0 +1,2 @@
+|scenarioName| UserName | Password | ssn | offerDate | hireDate | inputStartDate | horlywage | jobTypeamount |storyName |storyDescription|
+|WebIn_payroll| mango@motox | trac@444 | 234523453 | 21 | 21 | 21 | 10 | DRIVER |PayrollTesting.story |asd|

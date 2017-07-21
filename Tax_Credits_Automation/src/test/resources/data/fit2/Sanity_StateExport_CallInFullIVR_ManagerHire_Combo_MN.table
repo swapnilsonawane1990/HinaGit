@@ -1,0 +1,2 @@
+UserName|Password|SSNNumber|ExpectedSSN | SSN | Company | PSNDate | DOLDate | SearchDateFrom | SearchDateTo | Area|storyName | companyName |scenarioName| storyDescription |changedStatus|
+ashivharefacs@adp|trac@000|050320129|050320129 | 111453231 |  | 18 | 18 | 1 | 29 | WOTC | Sanity_StateExport_CallInFullIVR_ManagerHire_Combo_MN.Story| Motox | Call-In_MassProcess_Combo_MN | Sanity_StateExport_CallInFullIVR_APIHire_Combo_MN |eSign|

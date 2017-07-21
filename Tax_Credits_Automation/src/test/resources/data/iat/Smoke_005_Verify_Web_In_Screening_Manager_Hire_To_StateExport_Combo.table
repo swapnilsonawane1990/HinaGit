@@ -1,0 +1,2 @@
+|scenarioName | ssn | offerDate | hireDate | inputStartDate | horlywage | jobTypeamount | storyName | storyDescription | changedStatus |
+|WebIn_AR| 234523453 | 21 | 21 | 21 | 10 | DRIVER | Smoke_005_Verify_Web_In_Screening_Manager_Hire_To_StateExport_Combo.story | Performed Web-In Screening, Manager Hire and State Export Action So that user get the state export files for Selected state| eSign |

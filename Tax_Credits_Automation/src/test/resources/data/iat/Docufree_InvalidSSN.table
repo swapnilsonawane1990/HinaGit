@@ -1,0 +1,2 @@
+|scenarioName|storyName|storyDescription|UserName|Password|errorDescription|
+|Docufree_Invalid_SSN|Docufree_InvalidSSN.story|Docufree Invalid SSN|akashiat@adp|trac@999|SSN-Value(4758749731234) is invalid|
